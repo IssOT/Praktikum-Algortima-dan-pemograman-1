@@ -4,4 +4,3 @@
 <p>Jurusan: Teknik Elektro<p>
 <p>Prodi  : Teknologi Rekayasa Komputer<p>
 <p>Kelas  : TI-1B<p>
-<br>
